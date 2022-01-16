@@ -6,4 +6,4 @@ In this project, I will be creating a webpage that will showcase my DOM manipula
 
 Tech stack that will be used in this project:
 -Html & CSS
--Vanilla JavaScipt
+-Vanilla JavaScript
